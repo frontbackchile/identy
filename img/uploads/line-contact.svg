@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="383.56" viewBox="0 0 1600 383.56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #e8b100;
+        stroke-width: 3px;
+        stroke-dasharray: 12 6;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="camino_4" data-name="camino 4" class="cls-1" d="M-138,4967c78.9-94.86,165.659-153.76,258.409-154.47,127.069-.97,203.936,114.52,370,234,140.091,100.8,279.23,141.69,322,136,143.061-19.03,279.491-212.29,382-280,112.68-74.43,213.38-100.83,276-100,111.06,1.48,215.65,51.94,304,134" transform="translate(0 -4801)"/>
+</svg>
